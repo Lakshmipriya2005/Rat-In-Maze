@@ -21,7 +21,7 @@ The solution will print all the valid paths or show that no path exists.
 Usage Example:
 
 maze = {
-	 {1, 1, 0},
+	 {1, 1, 1},
 	 {1, 0, 9},
 	 {1, 1, 1}
       };
@@ -34,7 +34,8 @@ Programming Language: Python/Java/C++ (adjust based on your implementation)
 Problem Solving: Backtracking, Recursion
 
 ### Output 
-![image](https://github.com/user-attachments/assets/00f636a1-1600-4052-bcdc-a6bd578de0ed)
+![image](https://github.com/user-attachments/assets/8bf272ed-6dc4-4e45-a507-841610e275c0)
+
 
 ### Conclusion:
 This README description provides a brief overview of the Rat in a Maze problem, explains the algorithm used, and includes instructions for running the program. It’s designed to be easy to understand for anyone browsing your GitHub repository.
